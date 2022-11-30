@@ -28,7 +28,6 @@ Users should be able to:
 
 - Solution URL: [https://github.com/Atombtw/news-homepage-main](https://github.com/Atombtw/news-homepage-main)
 - Live Site URL: [https://cheery-torrone-9a32e6.netlify.app]
-  (https://cheery-torrone-9a32e6.netlify.app)
 
 ## My process
 
