@@ -205,6 +205,25 @@ img {
   margin-right: 17px;
 }
 
+.button a:hover {
+  cursor: pointer;
+  color: #fff;
+  background-color: var(--Very-dark-blue);
+  transition: 0.5s;
+}
+
+.main-list h3:hover {
+  color: var(--Soft-orange);
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.catagori-titles h3:hover {
+  color: var(--Soft-red);
+  transition: 0.5s;
+  cursor: pointer;
+}
+
 @media (max-width: 992px) {
   .nav-menu {
     display: none;
